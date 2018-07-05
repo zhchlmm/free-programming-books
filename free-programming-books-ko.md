@@ -14,6 +14,8 @@
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
+  * [Django](#django)
+  * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
 * [Swift](#swift)
@@ -56,7 +58,6 @@
 
 ### JavaScript
 
-* [Backbone.js API 한글 번역 v0.9.2](http://iwidgets.kr/document/backbonejs.html)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
 * Meteor
   * [Discover Meteor](http://kr.discovermeteor.com)
@@ -80,10 +81,8 @@
 ### Perl
 
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
-* [Perl : GyparkWiki](http://gypark.pe.kr/wiki/Perl)
 * [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
 * [Seoul.pm 펄 크리스마스 달력 #2014 | Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
-* [책벌레가 되고픈 어린이 Perl Tutorial](http://eriny.net/p/perl)
 
 
 ### PHP
@@ -103,6 +102,16 @@
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/006855/)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+
+
+#### Django
+
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
+
+
+#### Flask
+
+* [Flask의 세계에 오신것을 환영합니다.](http://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
 
 ### R
